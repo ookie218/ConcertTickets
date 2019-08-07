@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConcertTickets</string>
+    <string name="title_Tag">Concert Ticket Stub</string>
+    <string name="btn_tag">Calculate Price</string>
+    <string name="text_Hint">Enter Number</string>
+    <string name="total_placeholder_text">Price Total</string>
+    <string-array name="Events">
+        <item>Pop Music Festival</item>
+        <item>Jazz Music Festival</item>
+        <item>Country Music Festival</item>
+    </string-array>
+</resources>
